@@ -72,6 +72,7 @@ function Fib() {
       {console.log(state)}
       <h3>Calculated values: </h3>
       {state.values && renderValues()}
+      <h3>just testing</h3>
     </div>
   );
 }
